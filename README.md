@@ -2,6 +2,8 @@
 
 Code for NAACL 2021 paper [Reading and Acting while Blindfolded: The Need for Semantics in Text Game Agents](https://arxiv.org/abs/2103.13552).
 
+Project site: https://blindfolded.cs.princeton.edu
+
 ## Getting Started
 
 - Install dependencies:
